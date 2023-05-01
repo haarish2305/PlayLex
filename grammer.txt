@@ -1,0 +1,12 @@
+start_symbol=S
+terminals=a,b,c,f,g,h
+prods:
+S=aBDh
+B=cC
+C=bC
+C=e
+D=EF
+E=g
+E=e
+F=f
+F=e
